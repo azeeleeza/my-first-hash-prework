@@ -1,5 +1,5 @@
 def my_hash
-  hash_one={key_one=>value_one, key_two=>value_two}
+  hash_one={"key_one"=>"value_one", "key_two"=>"value_two"}
 
 
 end
